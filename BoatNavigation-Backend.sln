@@ -3,11 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoatNavigation-Backend.Domain", "BoatNavigation-Backend.Domain\BoatNavigation-Backend.Domain.csproj", "{B908A18F-152B-40EB-A5F5-A64635D8BE25}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F67A089-3ACD-4516-9771-BCC060D041A7}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|x64.Build.0 = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Debug|x86.Build.0 = Debug|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|x64.ActiveCfg = Release|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|x64.Build.0 = Release|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|x86.ActiveCfg = Release|Any CPU
+		{B908A18F-152B-40EB-A5F5-A64635D8BE25}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
